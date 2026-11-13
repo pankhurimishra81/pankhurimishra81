@@ -16,6 +16,15 @@ I have 20 years in enterprise technology. My career runs from Java and content-m
 | 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: GHAS enterprise rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation |
 | 🧠 [**course-projects-assignments**](https://github.com/pankhuri-labs/course-projects-assignments) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
 
+## Hands-on security projects (IIT Madras, 2025–26)
+| Project | What it shows | Outcome |
+|---|---|---|
+| [Capstone: access control and auditing](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/07-capstone-linux-access-control-auditing) | RBAC, ACLs, sticky bit, auditd, protected web audit report | Unauthorised edits and deletions blocked and captured in the audit trail |
+| [AI in the SOC: Colonial Pipeline analysis](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/04-ai-soc-incident-analysis-colonial-pipeline) | NIST CSF mapping, AI limits, adversarial risk, governance | Seven-point improvement plan |
+| [Security log analysis in Splunk](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/05-security-log-analysis-splunk) | AI-generated PowerShell and SPL, blue-team monitoring | 430 events analysed with five queries |
+| [Digital forensics](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/06-digital-forensics-steganography) | FTK Imager, Autopsy, steganography | Deleted evidence recovered and hidden message decoded |
+| [More projects →](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026) | SELinux hardening, Wireshark, MITM / DNS spoofing | |
+
 ## Hands-on ML & AI projects (IIIT Bangalore, 2022)
 | Project | Techniques | Result |
 |---|---|---|
