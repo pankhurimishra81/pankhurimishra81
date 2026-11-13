@@ -2,19 +2,19 @@
 
 **Security Product & Programme Leader · Application Security · Vulnerability Management · Applied AI/ML**
 
-I have 20+ years in enterprise technology. My career runs from Java and content-management engineering at IBM, Infosys and HCL to product and programme leadership in application security at John Deere. I back that experience with hands-on ML and cybersecurity work from postgraduate programmes at IIIT Bangalore and IIT Madras.
+I have 20 years in enterprise technology. My career runs from Java and content-management engineering at IBM, Infosys and HCL to product and programme leadership in application security and vulnerability management at John Deere, most recently as AGM (Dec 2024 to Sep 2026). I back that experience with hands-on ML and cybersecurity work from postgraduate programmes at IIIT Bangalore and IIT Madras.
 
 ## Highlights
-- Scaled **GitHub Advanced Security to 10,000+ developers and 55,000 repositories** in four months; the rollout won the company's annual **CISO Award**.
-- Owned enterprise-wide **Qualys vulnerability management** and **Microsoft Defender for Endpoint** adoption, with remediation workflows, SLAs and MTTR dashboards.
-- Saved **4,500 hours a year and avoided $114K** in costs through process re-engineering.
+- Scaled **GitHub Advanced Security to 10,000+ developers and 55,000+ repositories** in four months, removing **$990K a year** in licence cost; the rollout won the company's annual **CISO Award**.
+- Lifted application security findings fixed within SLA from **35% to ~70%**, and blocked **~600 secrets** with push protection.
+- Led **Microsoft Defender for Endpoint** adoption to **96% coverage**, and ran risk-based vulnerability management on Qualys.
+- As a product manager, saved **4,500 hours a year** with a parts lookup utility and **$114K a year** by bringing content authoring in-house.
 
 ## Start here
 | Repository | What you'll find |
 |---|---|
-| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and practitioner case studies: vulnerability prioritisation, GHAS enterprise rollout, DPDP Act readiness |
+| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: GHAS enterprise rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation |
 | 🧠 [**course-projects-assignments**](https://github.com/pankhuri-labs/course-projects-assignments) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
-| 🛡️ [**CaseStudies**](https://github.com/pankhuri-labs/CaseStudies) | 40+ security case studies with working scripts: AppSec, VM, IAM, supply chain, GenAI security, financial services |
 
 ## Hands-on ML & AI projects (IIIT Bangalore, 2022)
 | Project | Techniques | Result |
@@ -36,4 +36,4 @@ I have 20+ years in enterprise technology. My career runs from Java and content-
 - MCA, Rajeev Gandhi University (2004) · B.Sc. Statistics, Barkatullah University (1999)
 
 ## Contact
-📍 Pune, India · ✉️ pankhuri.awasthi@gmail.com · LinkedIn: _add link_
+📍 Pune, India · ✉️ pankhuri.awasthi@gmail.com · [LinkedIn](https://www.linkedin.com/in/pankhurimishra/) · [Portfolio site](https://pankhuri-labs.github.io/portfolio/)
