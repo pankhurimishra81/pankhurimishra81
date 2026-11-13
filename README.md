@@ -13,17 +13,17 @@ I have 20+ years in enterprise technology. My career runs from Java and content-
 | Repository | What you'll find |
 |---|---|
 | 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and practitioner case studies: vulnerability prioritisation, GHAS enterprise rollout, DPDP Act readiness |
-| 🧠 [**course-projects**](https://github.com/pankhuri-labs/course-projects) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
+| 🧠 [**course-projects-assignments**](https://github.com/pankhuri-labs/course-projects-assignments) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
 | 🛡️ [**CaseStudies**](https://github.com/pankhuri-labs/CaseStudies) | 40+ security case studies with working scripts: AppSec, VM, IAM, supply chain, GenAI security, financial services |
 
 ## Hands-on ML & AI projects (IIIT Bangalore, 2022)
 | Project | Techniques | Result |
 |---|---|---|
-| [Telecom churn prediction](https://github.com/pankhuri-labs/course-projects/tree/main/iiitb-ml-ai-2022/04-telecom-churn-prediction) | SMOTE, PCA, Random Forest | F1 0.92 |
-| [Melanoma detection](https://github.com/pankhuri-labs/course-projects/tree/main/iiitb-ml-ai-2022/05-melanoma-detection-cnn) | CNN, augmentation, class rebalancing | Validation accuracy from 52% to 79% |
-| [Gesture recognition](https://github.com/pankhuri-labs/course-projects/tree/main/iiitb-ml-ai-2022/06-gesture-recognition-cnn-rnn) | Conv3D, CNN + GRU/LSTM | Validation accuracy 87.5% |
-| [Sentiment-based recommender](https://github.com/pankhuri-labs/course-projects/tree/main/iiitb-ml-ai-2022/07-sentiment-product-recommendation) | NLP, collaborative filtering, Flask | Deployed end-to-end app |
-| [More projects →](https://github.com/pankhuri-labs/course-projects/tree/main/iiitb-ml-ai-2022) | Regression, regularisation, EDA | |
+| [Telecom churn prediction](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022/04-telecom-churn-prediction) | SMOTE, PCA, Random Forest | F1 0.92 |
+| [Melanoma detection](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022/05-melanoma-detection-cnn) | CNN, augmentation, class rebalancing | Validation accuracy from 52% to 79% |
+| [Gesture recognition](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022/06-gesture-recognition-cnn-rnn) | Conv3D, CNN + GRU/LSTM | Validation accuracy 87.5% |
+| [Sentiment-based recommender](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022/07-sentiment-product-recommendation) | NLP, collaborative filtering, Flask | Deployed end-to-end app |
+| [More projects →](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022) | Regression, regularisation, EDA | |
 
 ## Skills
 **Security:** application security (SAST/SCA, GHAS, CodeQL), vulnerability management (Qualys, KEV/EPSS prioritisation), endpoint security (Defender), DPDP / PCI DSS / EU CRA readiness
