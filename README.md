@@ -5,8 +5,8 @@
 I have 20 years in enterprise technology. My career runs from Java and content-management engineering at IBM, Infosys and HCL to product and programme leadership in application security and vulnerability management at John Deere, most recently as AGM (Dec 2024 to Sep 2026). I back that experience with hands-on ML and cybersecurity work from postgraduate programmes at IIIT Bangalore and IIT Madras.
 
 ## Highlights
-- Scaled **GitHub Advanced Security to 10,000+ developers and 55,000+ repositories** in four months, removing **$990K a year** in licence cost; the rollout won the company's annual **CISO Award**.
-- Lifted application security findings fixed within SLA from **35% to ~70%**, and blocked **~600 secrets** with push protection.
+- Scaled **a code security platform to thousands of developers** in four months, a month ahead of plan, with a major cut in licence cost; the rollout team won the company's annual **CISO Award**.
+- **Roughly doubled** application security findings fixed within SLA, and blocked **hundreds of secrets** with push protection.
 - Led **Microsoft Defender for Endpoint** adoption, and ran risk-based vulnerability management on Qualys.
 - As a product manager, saved **4,500 hours a year** with a parts lookup utility and **$114K a year** by bringing content authoring in-house.
 
