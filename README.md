@@ -7,13 +7,13 @@ I have 20 years in enterprise technology. My career runs from Java and content-m
 ## Highlights
 - Scaled **a code security platform to thousands of developers** in four months, a month ahead of plan, with a major cut in licence cost; the rollout team won the company's annual **CISO Award**.
 - **Roughly doubled** application security findings fixed within SLA, and blocked **hundreds of secrets** with push protection.
-- Led **Microsoft Defender for Endpoint** adoption, and ran risk-based vulnerability management on Qualys.
+- Led adoption of an **endpoint protection platform**, and ran risk-based vulnerability management on an enterprise VM platform.
 - As a product manager, saved **4,500 hours a year** with a parts lookup utility and **$114K a year** by bringing content authoring in-house.
 
 ## Start here
 | Repository | What you'll find |
 |---|---|
-| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: GHAS enterprise rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation |
+| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: enterprise code-scanning rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation |
 | 🧠 [**course-projects-assignments**](https://github.com/pankhuri-labs/course-projects-assignments) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
 
 ## Hands-on security projects (IIT Madras, 2025–26)
