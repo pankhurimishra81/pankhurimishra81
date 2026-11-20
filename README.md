@@ -7,7 +7,7 @@ I have 20 years in enterprise technology. My career runs from Java and content-m
 ## Highlights
 - Scaled **GitHub Advanced Security to 10,000+ developers and 55,000+ repositories** in four months, removing **$990K a year** in licence cost; the rollout won the company's annual **CISO Award**.
 - Lifted application security findings fixed within SLA from **35% to ~70%**, and blocked **~600 secrets** with push protection.
-- Led **Microsoft Defender for Endpoint** adoption to **96% coverage**, and ran risk-based vulnerability management on Qualys.
+- Led **Microsoft Defender for Endpoint** adoption, and ran risk-based vulnerability management on Qualys.
 - As a product manager, saved **4,500 hours a year** with a parts lookup utility and **$114K a year** by bringing content authoring in-house.
 
 ## Start here
