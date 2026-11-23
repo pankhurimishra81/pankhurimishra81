@@ -13,7 +13,7 @@ I have 20 years in enterprise technology. My career runs from Java and content-m
 ## Start here
 | Repository | What you'll find |
 |---|---|
-| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: enterprise code-scanning rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation |
+| 📁 [**portfolio**](https://github.com/pankhuri-labs/portfolio) | Selected work and case studies: enterprise code-scanning rollout, security testing programme, tool adoption, pen-test programme management, vulnerability prioritisation, AI's impact on application security |
 | 🧠 [**course-projects-assignments**](https://github.com/pankhuri-labs/course-projects-assignments) | Hands-on ML/AI and cybersecurity projects, organised by programme, each with problem, approach and results |
 
 ## Hands-on security projects (IIT Madras, 2025–26)
