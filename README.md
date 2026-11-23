@@ -35,7 +35,7 @@ I have 20 years in enterprise technology. My career runs from Java and content-m
 | [More projects →](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022) | Regression, regularisation, EDA | |
 
 ## Skills
-**Security:** application security (SAST/SCA, GHAS, CodeQL), vulnerability management (Qualys, KEV/EPSS prioritisation), endpoint security (Defender), DPDP / PCI DSS / EU CRA readiness
+**Security:** application security (SAST/SCA, GHAS, CodeQL), vulnerability management (Qualys, KEV/EPSS prioritisation), endpoint security (Defender)
 **AI/ML:** Python, scikit-learn, TensorFlow/Keras, NLP, statsmodels, pandas
 **Delivery:** product ownership, Scrum and SAFe, security tool evaluation and rollout, KPI and SLA governance
 
